@@ -1,6 +1,6 @@
 # Form Validation
 
-Form Validation
+
 
   * This is a simple PHP script for form validation. It validates user inputs such as name, email, website, comments, and gender. The validated inputs are displayed after the form submission.
 
